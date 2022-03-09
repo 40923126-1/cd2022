@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': '每周進度 1w', 'text': '建立空倉儲與NX可攜程式', 'tags': '', 'url': '每周進度 1w.html'}]};
